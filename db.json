@@ -1,0 +1,178 @@
+{
+  "killers": [
+    {
+      "id": 1,
+      "name": "The Trapper",
+      "price": { "auric_cells": 0, "iridescent_shards": 0 },
+      "unique_perks": ["Unnerving Presence", "Brutal Strength", "Agitation"]
+    },
+    {
+      "id": 2,
+      "name": "The Hillbilly",
+      "price": { "auric_cells": 0, "iridescent_shards": 0 },
+      "unique_perks": ["Enduring", "Lightborn", "Tinkerer"]
+    },
+    {
+      "id": 3,
+      "name": "The Nurse",
+      "price": { "auric_cells": 0, "iridescent_shards": 0 },
+      "unique_perks": ["Stridor", "Thanatophobia", "A Nurse’s Calling"]
+    },
+    {
+      "id": 4,
+      "name": "The Huntress",
+      "price": { "auric_cells": 0, "iridescent_shards": 0 },
+      "unique_perks": ["Beast of Prey", "Territorial Imperative", "Hex: Huntress Lullaby"]
+    },
+    {
+      "id": 5,
+      "name": "The Wraith",
+      "price": { "auric_cells": 0, "iridescent_shards": 0 },
+      "unique_perks": ["Predator", "Bloodhound", "Shadowborn"]
+    },
+    {
+      "id": 6,
+      "name": "The Spirit",
+      "price": { "auric_cells": 125, "iridescent_shards": 2250 },
+      "unique_perks": ["Spirit Fury", "Hex: Haunted Ground", "Rancor"]
+    },
+    {
+      "id": 7,
+      "name": "The Doctor",
+      "price": { "auric_cells": 250, "iridescent_shards": 4500 },
+      "unique_perks": ["Monitor & Abuse", "Overcharge", "Overwhelming Presence"]
+    },
+    {
+      "id": 8,
+      "name": "The Clown",
+      "price": { "auric_cells": 250, "iridescent_shards": 4500 },
+      "unique_perks": ["Bamboozle", "Coulrophobia", "Pop Goes the Weasel"]
+    },
+    {
+      "id": 9,
+      "name": "The Plague",
+      "price": { "auric_cells": 250, "iridescent_shards": 4500 },
+      "unique_perks": ["Ruin", "Infectious Fright", "Corrupt Intervention"]
+    },
+    {
+      "id": 10,
+      "name": "The Legion",
+      "price": { "auric_cells": 250, "iridescent_shards": 4500 },
+      "unique_perks": ["Discordance", "Mad Grit", "Iron Maiden"]
+    },
+    {
+      "id": 11,
+      "name": "The Artist",
+      "price": { "auric_cells": 250, "iridescent_shards": 4500 },
+      "unique_perks": ["Grim Embrace", "Hex: Pentimento", "Scourge Hook: Pain Resonance"]
+    },
+    {
+      "id": 12,
+      "name": "The Knight",
+      "price": { "auric_cells": 250, "iridescent_shards": 4500 },
+      "unique_perks": ["Ultimate Weapon", "No Way Out", "Save the Best for Last"]
+    },
+    {
+      "id": 13,
+      "name": "The Dredge",
+      "price": { "auric_cells": 250, "iridescent_shards": 4500 },
+      "unique_perks": ["Trail of Torment", "Unrelenting", "Shadowborn"]
+    },
+    {
+      "id": 14,
+      "name": "The Singularity",
+      "price": { "auric_cells": 500, "iridescent_shards": 9000 },
+      "unique_perks": ["Forced Hesitation", "Genetic Limits", "Machine Learning"]
+    },
+    {
+      "id": 15,
+      "name": "The Blight",
+      "price": { "auric_cells": 500, "iridescent_shards": 9000 },
+      "unique_perks": ["Hex: Dragon’s Grip", "Hex: Blood Pact", "Hex: Blood Favour"]
+    },
+    {
+      "id": 16,
+      "name": "The Executioner",
+      "price": { "auric_cells": 500, "iridescent_shards": 9000 },
+      "unique_perks": ["Deathbound", "Forced Penance", "Trail of Torment"]
+    },
+    {
+      "id": 17,
+      "name": "The Demogorgon",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Of the Abyss", "Cruel Limits", "Knock Out"]
+    },
+    {
+      "id": 18,
+      "name": "The Oni",
+      "price": { "auric_cells": 500, "iridescent_shards": 9000 },
+      "unique_perks": ["Demon Dash", "Zanshin Tactics", "Yamaoka’s Wrath"]
+    },
+    {
+      "id": 19,
+      "name": "The Unknown",
+      "price": { "auric_cells": 500, "iridescent_shards": 9000 },
+      "unique_perks": ["Obsessed", "Starstruck", "Fatal Attraction"]
+    },
+    {
+      "id": 20,
+      "name": "The Lich",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Dark Arrogance", "Lethal Pursuer", "Weave Attunement"]
+    },
+    {
+      "id": 21,
+      "name": "The Xenomorph",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Ultimate Weapon", "No Way Out", "Deadlock"]
+    },
+    {
+      "id": 22,
+      "name": "The Mastermind",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Nemesis", "Heavy Burden", "Oppression"]
+    },
+    {
+      "id": 23,
+      "name": "The Onryō",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Hex: Undying", "Hex: Plaything", "Hex: Retribution"]
+    },
+    {
+      "id": 24,
+      "name": "The Cenobite",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Remember Me", "Dark Devotion", "Deathbound"]
+    },
+    {
+      "id": 25,
+      "name": "The Nightmare",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Remember Me", "Dream Demon", "Fire Up"]
+    },
+    {
+      "id": 26,
+      "name": "The Shape",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Eternal Blight", "Save the Best for Last", "Dying Light"]
+    },
+    {
+      "id": 27,
+      "name": "Ghost Face",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Furtive Chase", "I’m All Ears", "Thrilling Tremors"]
+    },
+    {
+      "id": 28,
+      "name": "The Good Guy",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Toy Box", "We’ve Had Problems Before", "Starstruck"]
+    },
+    {
+      "id": 29,
+      "name": "The Animatronic",
+      "price": { "auric_cells": 500, "iridescent_shards": null },
+      "unique_perks": ["Dual Replay", "Bonus Reel", "Static Discharge"]
+    },
+  ]
+}
